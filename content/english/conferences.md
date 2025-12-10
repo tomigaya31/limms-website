@@ -14,6 +14,7 @@ draft: false
 2. R. Anufriev, M. Diego, S. Volz, M. Nomura Spectral and spatial limits of phonon coherence in two-dimensional phononic crystals, Phononics, Seoul, Korea, 2025
 3. S. Chevalier, M. Ryu, J.C. Batsale, & J. Morikawa, Mid infrared imaging of mass transport in polymer electrolyte membranes of an operating microfluidic water electrolyzer. In Int. Symp. HTJS 2025, Okinawa, Japan.
 4. R. Anufriev, M. Diego, S. Volz and M. Nomura, Spectral and spatial limits of phonon coherence in two-dimensional phononic crystals, Phonons 2025, Buenos Aires, Argentina.
+5. L. Jalabert, J. Ordonez-Miranda, Y. Wu, B. Kim, R. Anufriev, M. Nomura and S. Volz, Electro-thermal measurements in vacuum up to 1150K, MNC 2025 (Nov 17~20, 2025), Tokyo, Japan.
 
 ### 2024
 
