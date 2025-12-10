@@ -22,7 +22,7 @@ draft: false
 11. Y. Liu,  S. De Mulatier,  N. Matsuhisa,  Unperceivable Designs of Wearable Electronics. Advanced Materials 2502727 (2025)
 12. X. Huang, S. Volz, M. Nomura, Y. Ni, Machine learning-guided broadband phonon blockade via Anderson localization in engineered Si/Ge nanowires, Physical Review B 111 (17), 174203, (2025).
 13. S. Chevalier, Y. Sasaki, T. Minami, Image-Based Measurements of Tafel Slopes in Aqueous MV/4-HO-TEMPO Flow Batteries, Journal of Power Sources, vol. 655, 2025, p. 237928
-14. L.Jalabert, J. Ordonez-Miranda, Y. Wu, B. Kim, R. Anufriev, M. Nomura, and S. Volz, Ultra-High-Temperature Vacuum Prober for Electrical and Thermal Measurements, accepted in Review of Scientific Instruments, 96,8, (2025-08-31), DOI: 10.1063/5.0272551
+14. L.Jalabert, J. Ordonez-Miranda, Y. Wu, B. Kim, R. Anufriev, M. Nomura, and S. Volz, Ultrahigh temperature vacuum prober for electrical and thermal measurements, Review of Scientific Instruments, 96,8, (2025), DOI: 10.1063/5.0272551
 15. K Miyazaki, S Volz, Thermal transport in nanomaterials and soft matters, International Journal of Heat and Mass Transfer, 252, 127483, (2025).
 16. Y Qiu, M Nomura, Z Zhang, S Lu, S Volz, J Chen, J Zhang, H Zhang, Roadmap on thermodynamics and thermal metamaterials, Frontiers of Physics 20 (6), 065500 (2025).
 17. S Shan, Z Zhang, S Lu, S Volz, J Chen, Generation of interfacial phonon modes and their contribution to thermal transport across the GaN/ZnO interface, Physical Review B 112 (15), 155302, (2025).
